@@ -146,4 +146,6 @@ def api_color_post():
     return jsonify(palette)
 	
 	
-app.run()
+if __name__=='__main__':        
+    #Run the applications
+    app.run()
