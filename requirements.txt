@@ -2,5 +2,3 @@ Flask
 Flask-RESTful
 colorthief
 requests
-gevent
-gunicorn
