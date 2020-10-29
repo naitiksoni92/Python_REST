@@ -1,6 +1,4 @@
 Flask
 Flask-RESTful
 colorthief
-base64
-os
 requests
